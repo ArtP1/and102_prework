@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">and102_prework</string>
+    <string name="my_intro">Hello World!! My name is Jaime I love Android development and dogs!</string>
+    <string name="button_txt">Say Hello!</string>
+</resources>
